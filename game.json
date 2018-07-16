@@ -1,0 +1,8 @@
+{
+    "title": "Mountains",
+    "command": "python -m app",
+    "players": {
+        "min": 1,
+        "max": 1
+    }
+}
